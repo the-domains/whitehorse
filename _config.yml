@@ -1,0 +1,28 @@
+name: whitehorse
+favicon: null
+layout_spectrum: 0.13856748305261135
+typography_spectrum: 0.4886868488974869
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.9020729679614305
+  lightness: 0.4401626724284142
+  saturation: 0.24336128728464246
+  rhythmicContrast: 0.6705408708658069
+purpose: []
